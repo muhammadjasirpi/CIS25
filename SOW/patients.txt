@@ -1,0 +1,25 @@
+51
+Kameron Lake
+56
+Male
+UTI
+421
+Ophelia Merit
+32
+Female
+Critical: Severe Glioblastoma
+452
+Jane Williams
+15
+Female
+Acne Vulgaris
+921
+Neal Sachs
+39
+Male
+Critical: Sickle Cell Anemia
+936
+Leon Mann
+26
+Male
+Tinea Infection
